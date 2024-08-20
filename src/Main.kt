@@ -59,7 +59,7 @@ fun raiz():Double{
 }
 //Sin parametros y con retorno
 fun saludo(): String{
-    return "hola clase"
+    return "Hola clase"
 }
 //Sin parametros y con retorno
 fun cuadrado(): Double{
